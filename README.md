@@ -69,6 +69,7 @@ If you can't use the browser-based configuration tool, there's also a [command-l
 ## How to compile the firmware
 
 The easiest way to compile the firmware is to let GitHub do it for you. This repository has GitHub Actions that build the firmware, so you can just fork, make your changes, wait for the job to complete, and look for the binaries in the artifacts produced.
+Small Change
 
 To compile the RP2040 firmware on your machine, use the following steps (details may vary depending on your Linux distribution):
 
